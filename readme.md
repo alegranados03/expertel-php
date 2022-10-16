@@ -91,7 +91,7 @@ $password = '';
 $db = 'expertel'; //database name
 ```
 
-##Usage
+## Usage
 You can run the following command in your terminal or cmd: `php index.php` (remember to have PHP 8.0.^ in order to execute it successfully); 
 
 ## Owner
